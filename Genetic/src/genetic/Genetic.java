@@ -155,7 +155,7 @@ public class Genetic{
  
  
  
- //random number generate...
+ //random number generate..
  public static int randInt(int min, int max) {
    return min + (int)(Math.random() * max); 
 }
