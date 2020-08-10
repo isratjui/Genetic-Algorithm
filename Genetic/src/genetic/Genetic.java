@@ -51,7 +51,7 @@ public class Genetic{
         noconsider2=i;
       }
     }
-    
+    //print
     System.out.println("fitness1= "+low1+"index1=  "+noconsider1+" fitness2= "+low2+" index2=  "+noconsider2);
     
    
